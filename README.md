@@ -2,7 +2,7 @@
 
 > Transform ordinary photographs into stunning artistic masterpieces using Deep Learning, Neural Style Transfer, TensorFlow, Gradio, and MongoDB.
 
-![Python](https://img.shields.io/badge/Python-3.12.9+-blue)
+![Python](https://img.shields.io/badge/Python-3.12.9-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-GridFS-green)
 ![Gradio](https://img.shields.io/badge/Gradio-WebUI-purple)
